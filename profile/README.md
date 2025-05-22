@@ -2,8 +2,8 @@
 
 You can run INFINITY Miner on macOS or Linux, with or without Docker. Choose the setup that fits your environment:
 
-- [Guide: Running the Miner with Docker on Linux](https://github.com/8finity-xyz/miner-v2/tree/main/guides/docker-linux.md)
-- [Guide: Running the Miner on macOS](https://github.com/8finity-xyz/miner-v2/tree/main/guides/macos.md)
+- [Guide: Running the Miner with Docker on Linux](https://github.com/8finity-xyz/miner-v2/blob/main/guides/linux-docker.md)
+- [Guide: Running the Miner on macOS](https://github.com/8finity-xyz/miner-v2/blob/main/guides/macos-native.md)
 - [Guide: Running the Miner in the cloud (Vast.ai)](https://github.com/8finity-xyz/miner-v2/tree/main/guides/vast-ai.md)
 
 ---
